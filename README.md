@@ -6,4 +6,4 @@
 3. Have a nice meal prep hub where I, as a college student, can easily find meals that I'm interested in making economically. 
 ### With this project I hope to learn more about programming in a fun, practical, and effective way by solving a modern problem (what I should eat for lunch) and learning valuable web development skills while I do so. 
 ### I also hope this project is a project done not just to show that I finished The Odin Project curriculum but also a project I will continuously build upon.
-![meal prep picture](./recipe_pics/odin_mealpic.jpg)
+![meal prep picture](recipes/recipe_pics/odin_mealpic.jpg)
